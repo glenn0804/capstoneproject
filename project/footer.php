@@ -36,6 +36,6 @@
 
    </div>
 
-   <p class="credit"> &copy; @ <?php echo date('Y'); ?> by <span>Glenn Gerada</span> </p>
+   <p class="credit"> &copy; <?php echo date('Y'); ?> by <span>Glenn Gerada</span> </p>
 
 </section>
