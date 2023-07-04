@@ -162,7 +162,7 @@ if (!isset($user_id)) {
             </div>
             <h3>George M.</h3>
          </div>
-
+         
          <div class="box">
             <img src="images/author-2.jpg" alt="">
             <div class="share">
